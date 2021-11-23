@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 #### Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/3gstudent/count.svg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/3gstudent)](https://badges.pufler.dev)
+
 
