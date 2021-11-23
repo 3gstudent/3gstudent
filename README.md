@@ -25,4 +25,3 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-[![Visits Badge](https://badges.pufler.dev/visits/3gstudent/3gstudent)](https://josedromero.com)
