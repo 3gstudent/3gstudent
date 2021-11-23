@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=3gstudent&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&hide=contribs" alt="3gstudent's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3gstudent&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
 
----
-#### Visit Count
-![Visitor Count](https://profile-counter.glitch.me/3gstudent/count.svg)
-
-
 <table>
   <tr>
     <td>You are visitor</td>
