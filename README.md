@@ -24,3 +24,5 @@ Here are some ideas to get you started:
     <td><img src="https://profile-counter.glitch.me/3gstudent/count.svg" alt="" /></td>
   </tr>
 </table>
+
+[![Visits Badge](https://badges.pufler.dev/visits/3gstudent/3gstudent)](https://josedromero.com)
